@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CustomerAccount
+comment0.text=\n\ CustomerAccount\ class\n\n\ @author\ (your\ name)\n\ @version\ 1\n
+comment1.params=
+comment1.target=CustomerAccount()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CustomerAccount\n
+comment2.params=amount
+comment2.target=void\ deposit(int)
+comment2.text=\n\ A\ method\ that\ allows\ additional\ money\ to\ be\ added\ into\ an\ account\n\ @param\ \ Takes\ amount\ to\ be\ deposited\n\ @return\ Does\ not\ return\ anything.\ Deposits\ balance\ and\ adds\ it\ to\ original\ amount.\n
+comment3.params=amount
+comment3.target=void\ withdraw(int)
+comment3.text=\n\ A\ method\ that\ allows\ money\ to\ be\ taken\ out\ of\ an\ account\n\ @param\ \ Takes\ amount\ to\ be\ withdrawn\n\ @return\ Does\ not\ return\ anything.\ Withdraws\ balance\ and\ deducts\ it\ from\ original\ amount.\n
+comment4.params=
+comment4.target=int\ checkBalance()
+comment4.text=\n\ A\ method\ that\ allows\ a\ user\ to\ check\ how\ much\ money\ is\ in\ their\ account\n\ @param\ \ No\ parameters\ are\ required\n\ @return\ \ \ \ Returns\ the\ available\ balance\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ Main\ method\ to\ run\ the\ program\n
+numComments=6

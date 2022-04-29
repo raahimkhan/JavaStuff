@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=annoying
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=event
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=event
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=event
+comment4.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ mouseEntered(java.awt.event.MouseEvent)
+numComments=6
