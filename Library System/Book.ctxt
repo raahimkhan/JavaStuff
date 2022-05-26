@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Book\ class\ to\ store\ name\ of\ book,\ name\ of\ author\ of\ book,\ and\ whether\ the\ book\ is\ currently\ borrowed\ by\ the\ user\ or\ not.\n\ Book\ object\ will\ be\ stored\ inside\ a\ list.\n
+comment1.params=bookName\ authorName\ borrowed
+comment1.target=Book(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getBookName()
+comment3.params=
+comment3.target=java.lang.String\ getAuthorName()
+comment4.params=
+comment4.target=boolean\ getBorrowed()
+comment5.params=b
+comment5.target=void\ setBorrowed(boolean)
+numComments=6
